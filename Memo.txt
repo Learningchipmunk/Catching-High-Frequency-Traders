@@ -1,0 +1,13 @@
+Obj :
+90%
+réduire le nombre de features
+
+Micro average in a multiclass classification  : https://datascience.stackexchange.com/questions/15989/micro-average-vs-macro-average-performance-in-a-multiclass-classification-settin
+
+Train a classifier on pure players (HFT or NON-HFT)
+Then organize a vote on all players
+
+HFT Cancelling: 95 to 99% of orders are cancelled
+Quote stuffing: create a lot of orders
+
+Invert OCR, OMR, OTR
