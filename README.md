@@ -12,7 +12,7 @@ This project was developed in the context of a data challenge organized by **ENS
 
 We identify important **indicators**, known as **features**, thanks to **PCA** and gradient boosting analysis. Then, we train multiple models such as **MLP**, **Decision Trees**, and **Gradient Boosting** on 10/18 features that were previously deemed relevant for our classification problem.
 
-###### We achieved <u>first place</u> in the private leaderboard with an accuracy of <u>100%</u>
+**We achieved <u>first place</u> in the private leaderboard with an accuracy of <u>100%</u>**
 
 ## Authors
 
